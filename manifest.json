@@ -1,0 +1,11 @@
+{
+	"id": "better-daily-notes",
+	"name": "Better daily notes",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Create or open today's daily note",
+	"author": "Thasan",
+	"authorUrl": "https://github.com/terokorp/",
+	"fundingUrl": "https://paypal.me/TeroKorpela",
+	"isDesktopOnly": false
+}
